@@ -1,0 +1,66 @@
+.marker {
+    font-family: Century Gothic;
+}
+
+.data-container {
+    background-color: transparent;
+    padding: 0 20px;
+    height: 260px;
+	border:1px solid black
+}
+
+.data-title {
+    text-align : center;
+    font-size: 20px;
+}
+
+.data-subtitle {
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+.data-value {
+    margin-top: 5px;
+}
+
+.data-value-label {
+    color: grey;
+    font-style: italic;
+    font-size: 14px;
+}
+
+.data-value-content {
+    font-size: 18px;
+	color : black;
+	font-family : Century Gothic;
+}
+
+.text-large {
+    font-size: 28px;
+}
+
+.text-xlarge {
+    font-size: 32px;
+}
+
+.jumbotron h1 {
+text-align : center;
+font-size : 50px;
+color : ##C0C0C0;
+}
+
+p{
+	color : ##C0C0C0;
+}
+
+.jumbotron {
+	background : url('int.jpg') center/cover;
+	/*background-color : #C0C0C0;*/
+}
+
+main{
+	background-color : #EEE8AA;	
+}
+
